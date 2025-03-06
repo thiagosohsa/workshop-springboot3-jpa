@@ -1,5 +1,7 @@
 # Web Services com Spring Boot e JPA/Hibernate
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/thiagosohsa/workshop-springboot3-jpa/blob/main/LICENSE) 
+
 # Sobre o projeto
 
 **Workshop em Spring Boot** foi um projeto construído durante o módulo do curso **Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB** , elaborada pelo [Nélio Alves](https://www.udemy.com/user/nelio-alves/ "Perfil do professor na Udemy").
